@@ -1,9 +1,9 @@
 {
-  "name": "bluenight-in-seoul-clock",
+  "name": "clock-greece",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://megstamp.github.io/bluenight-in-seoul-clock",
+  "homepage": "https://megstamp.github.io/clock-greece",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
