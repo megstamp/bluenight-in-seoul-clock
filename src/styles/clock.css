@@ -17,7 +17,7 @@ h1 {
 }
 
 .main-container {
-    font-family: "Orbitron", sans-serif;
+    font-family: 'Castoro Titling', cursive;
     color: var(--main-color);
     font-weight: 400;
     text-align: center;
@@ -31,7 +31,7 @@ h1 {
     opacity: 90%;
 
     position: absolute;
-    top: 50%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
